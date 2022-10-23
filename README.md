@@ -10,7 +10,7 @@
 - :technologist: I love using Software as a solution for every `Problem` 
 - :computer: I am a competitive programmer mainly at `native mobile software`
 - :student: I’m currently learning: `SwiftUI` in a bootcamp and `Cyber Security` in a master  at the university.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17EkudAqflp1iPScBwPCDmnvlRe4-chlR/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME.pdf](https://drive.google.com/file/d/17EkudAqflp1iPScBwPCDmnvlRe4-chlR/view?usp=sharing) or too my [IOS app resume](https://github.com/agmcoder/Portfolio_SwiftUI)
 - :nerd_face: Always `learning new things`
 
 
